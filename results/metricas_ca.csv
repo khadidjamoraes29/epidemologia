@@ -1,0 +1,6 @@
+cenario,populacao_ocupada,casos_sintomaticos_acumulados,pico_sintomaticos,dia_pico,area_contaminada_maxima,contaminacao_maxima,dimensao_box_counting_no_pico,dia_area_contaminada_maxima,reducao_percentual_casos
+referencia,2508,2378,885,24,3408,1.0,1.723835985826705,15,0.0
+enchente_intensa,2508,2493,991,24,3574,1.0,1.9442308045636163,20,-4.835996635828428
+protecao_individual,2508,2132,728,24,3408,1.0,1.723835985826705,15,10.344827586206897
+descontaminacao,2508,2198,820,24,3234,0.935005903523304,0.0,15,7.5693860386879726
+intervencao_combinada,2508,1842,643,25,3234,0.935005903523304,0.0,15,22.53994953742641

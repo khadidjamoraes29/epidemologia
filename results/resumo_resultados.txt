@@ -1,0 +1,18 @@
+RESUMO AUTOMÁTICO DOS EXPERIMENTOS
+========================================
+
+MODELO COMPARTIMENTAL
+              cenario  populacao  casos_sintomaticos_acumulados  expostos_acumulados  pico_sintomaticos  dia_pico  contaminacao_maxima  suscetiveis_finais  reducao_percentual_casos
+           referencia      10000                    6607.132312          6718.389873        1634.419721        36             0.849498         3281.610127                  0.000000
+     enchente_intensa      10000                    7641.157552          7722.380345        1896.330039        37             1.596298         2277.619655                -15.650137
+  protecao_individual      10000                    4775.291942          4877.954826        1115.705131        37             0.849500         5122.045174                 27.725196
+      descontaminacao      10000                    5417.346680          5518.074942        1468.679017        33             0.716022         4481.925058                 18.007595
+intervencao_combinada      10000                    3742.030105          3824.530754         977.726574        34             0.716023         6175.469246                 43.363778
+
+AUTÔMATO CELULAR
+              cenario  populacao_ocupada  casos_sintomaticos_acumulados  pico_sintomaticos  dia_pico  area_contaminada_maxima  contaminacao_maxima  dimensao_box_counting_no_pico  dia_area_contaminada_maxima  reducao_percentual_casos
+           referencia               2508                           2378                885        24                     3408             1.000000                       1.723836                           15                  0.000000
+     enchente_intensa               2508                           2493                991        24                     3574             1.000000                       1.944231                           20                 -4.835997
+  protecao_individual               2508                           2132                728        24                     3408             1.000000                       1.723836                           15                 10.344828
+      descontaminacao               2508                           2198                820        24                     3234             0.935006                       0.000000                           15                  7.569386
+intervencao_combinada               2508                           1842                643        25                     3234             0.935006                       0.000000                           15                 22.539950
